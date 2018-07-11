@@ -230,6 +230,7 @@ button:active {
 .container {
     max-width: 1170px;
     margin: 0 auto;
+    padding: 0 15px;
 }
 .header .logo {
     display: inline-block;
@@ -408,7 +409,9 @@ button:active {
     padding: 40px 0;
     background: #f1f1f1;
 }
-
+.news-focus .container {
+    padding: 0;
+}
 .news-focus .item {
     margin: 15px;
     background: #fff;
