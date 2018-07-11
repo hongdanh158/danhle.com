@@ -17,7 +17,7 @@
 <header class="header">
     <div class="top">
       <div class="container">
-        <a class="logo"> <img src="images/logo.svg"></a>
+        <a class="logo" href="index.php"> <img src="images/logo.svg"></a>
         <div class="js-menu-mobile"><div class="trigger-menu"><span class="three-bars-icon"></span></div></div>
         <div class="right">
           <a class="icon search"><i class="fas fa-search"></i></a>
@@ -58,37 +58,37 @@
         <nav class="nav">
           <ul>
             <li>
-              <a href="#">
+              <a href="news-list.php">
                 <img src="images/adobe-xd.png" class="background">
                 <span>Adobe Xd</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="news-list.php">
                 <img src="images/adobe-photoshop.png" class="background">
                 <span>Adobe Photoshop</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="news-list.php">
                 <img src="images/adobe-illustrator.png" class="background">
                 <span>Adobe illustrator</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="news-list.php">
                 <img src="images/adobe-indesign.png" class="background">
                 <span>Adobe indesign</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="news-list.php">
                 <img src="images/web-layout.png" class="background">
                 <span>Giao diện web</span>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="news-list.php">
                 <img src="images/programing.png" class="background">
                 <span>Lập trình web</span>
               </a>
