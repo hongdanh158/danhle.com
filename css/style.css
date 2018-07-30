@@ -420,6 +420,7 @@ button:active {
     padding: 0;
 }
 .news-focus .item {
+    width: 25%;
     margin: 15px;
     background: #fff;
     border: #E8E8E8;

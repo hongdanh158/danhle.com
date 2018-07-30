@@ -13,7 +13,6 @@
 	  <meta property="og:image" content="https://danhle.com/v2/images/cover.jpg" />
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&amp;subset=vietnamese" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-    <link href="js/bxslider/jquery.bxslider.css?v=1" rel="stylesheet">
     <link rel="stylesheet" href="js/slick/slick.css">
     <link href="css/style.css?v=1" rel="stylesheet">
     <link href="css/responsive.css?v=1" rel="stylesheet">
