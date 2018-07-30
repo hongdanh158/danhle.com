@@ -17,8 +17,7 @@
 <div class="scrollToTop"></div>
 
 <!-- slick -->
-<link rel="stylesheet" href="js/slick/slick.css">
-<script src="js/slick/slick.min.js"></script>
+<script src="js/bxslider/jquery.bxslider.js"></script>
 <!-- End slick -->
 <script defer src="js/script.js?v=1"></script>
 </body>

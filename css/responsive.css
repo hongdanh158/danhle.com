@@ -54,7 +54,11 @@
 @media (max-width: 992px) {
 }
 @media (max-width: 800px) {
-	
+	.other-news .article {
+        clear: both;
+        width: 100%;
+        margin-right: 0%;
+    }
 }
 @media (max-width: 768px) {
 	html {
@@ -70,7 +74,11 @@
 	
 }
 @media (max-width: 600px) {
-	
+    .news-list .item .thumbnail {
+        float: none;
+        margin-bottom: 1rem;
+        width: 100%;
+    }
 }
 @media (max-width: 480px) {
     

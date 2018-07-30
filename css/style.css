@@ -252,7 +252,7 @@ button:active {
 
 .header .top .right {
     float: right;
-    padding: 2.2rem 0;
+    margin-top: 2.4rem;
 }
 
 .header .top .right .icon {
@@ -269,6 +269,8 @@ button:active {
 .header .bottom .left {
     float: left;
     width: 457px;
+    height: 122px;
+    overflow: hidden;
 }
 
 .header .bottom .right {
@@ -546,7 +548,7 @@ button:active {
 }
 .news-group .right .item {
     clear: both;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
 }
 .news-group .right .item:last-child {
     margin-bottom: 0
@@ -620,7 +622,7 @@ button:active {
   background-color: transparent;
   width: 46px;
   height: 44px;
-  margin-top: 1.5rem;
+  margin-top: 1.7rem;
 }
 .js-menu-mobile .trigger-menu {
     cursor: pointer;
@@ -1147,6 +1149,9 @@ button:active {
     line-height: 1.2;
     margin-bottom: 1rem;
     
+}
+news-detail img {
+    max-width: 100%;
 }
 .social-sharing {
   padding: 1rem 0;

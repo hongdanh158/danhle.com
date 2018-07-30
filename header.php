@@ -6,12 +6,20 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Danh Lê</title>
-	<meta property="og:image" content="https://danhle.com/v2/images/cover.jpg" />
+    <meta property="og:title" content='Lê Trương Hồng Danh'/>
+	  <meta property="og:type" content="WebSite" />
+	  <meta property="og:description" content="Website chia sẻ kiến thức về thiết kế và lập trình website"/>
+	  <meta property="og:site_name" content="Lê Trương Hồng Danh" />
+	  <meta property="og:image" content="https://danhle.com/v2/images/cover.jpg" />
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&amp;subset=vietnamese" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <link href="js/bxslider/jquery.bxslider.css?v=1" rel="stylesheet">
+    <link rel="stylesheet" href="js/slick/slick.css">
     <link href="css/style.css?v=1" rel="stylesheet">
     <link href="css/responsive.css?v=1" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
+    
+    <script src="js/slick/slick.min.js"></script>
   </head>
 <body>
 <header class="header">
