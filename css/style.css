@@ -419,8 +419,10 @@ button:active {
 .news-focus .container {
     padding: 0;
 }
+
 .news-focus .item {
-    width: 25%;
+    width: 263px;
+    float: left;
     margin: 15px;
     background: #fff;
     border: #E8E8E8;
@@ -1097,16 +1099,17 @@ button:active {
     margin-bottom: 3rem;
 }
 .body-right .block .head .block-title {
-    margin-bottom: 2rem;
-    
+    /* margin-bottom: 2rem; */
 }
 .body-right .block .head {
     margin-bottom: 2rem;
     border-bottom: 2px solid #e8e8e8;
+    text-transform: uppercase;
+    color: #00880E;
 }
 .body-right .block .head .block-title .icon {
-    width: 26px;
-    vertical-align: -6px;
+    width: 41px;
+    vertical-align: -17px;
     margin-right: 1rem;
 }
 .body-right .block .article {
