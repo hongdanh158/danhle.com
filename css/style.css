@@ -1240,3 +1240,8 @@ news-detail img {
     font-size: 14px;
     color: #666;
 }
+::selection {
+    color: #fff;
+    background: #00b208;
+    text-shadow: none;
+}
