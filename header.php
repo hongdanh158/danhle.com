@@ -17,8 +17,6 @@
     <link href="css/style.css?v=1" rel="stylesheet">
     <link href="css/responsive.css?v=1" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
-    
-    
   </head>
 <body>
 <header class="header">
